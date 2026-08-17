@@ -9,7 +9,7 @@ export default function Contact() {
       </h2>
 
       <a
-        href="mailto:hello@example.com"
+        href="https://www.linkedin.com/in/mdzularsyilaziz/"
         className="mt-8 inline-flex border border-white/15 px-5 py-3 text-sm uppercase tracking-[0.2em] transition hover:border-white/40 hover:bg-white hover:text-black"
       >
         Get in touch
